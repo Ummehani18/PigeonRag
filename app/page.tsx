@@ -314,23 +314,25 @@ function Overview({
         <div>
           <Eyebrow>THE PROBLEM</Eyebrow>
           <h2>
-            Important knowledge
+            Your organization's data should 
             <br />
-            shouldn't be hard to find.
+            stay within your organization.
           </h2>
         </div>
 
         <div className="overview-text">
           <p>
-            Operational teams work across policy documents, claims guidelines,
-            procedures and agreements. Finding the exact passage can be slow,
-            fragmented and difficult to verify.
+            Sensitive documents, internal policies, business records and confidential information shouldn't have to leave your organization's controlled environment just to use AI.
+
+
+
           </p>
 
+          <p>Yet many AI-powered tools rely on external cloud infrastructure, creating concerns around data exposure, confidentiality and control.
+</p>
+
           <p>
-            PigeonRAG is being developed to make that knowledge searchable
-            through local AI retrieval, while keeping the processing workflow
-            within an organization's controlled environment.
+            PigeonRAG is being developed as a privacy-first, locally hosted RAG platform — enabling organizations to use AI with their internal knowledge while keeping document processing and retrieval within their own environment.
           </p>
 
           <button
